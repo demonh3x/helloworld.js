@@ -1,0 +1,10 @@
+{
+  "name": "helloworld.js",
+  "version": "0.1.0",
+  "description": "Hello world",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-jasmine-phantom": "^1.1.2",
+    "gulp-concat": "^2.5.2"
+  }
+}
