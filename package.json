@@ -4,6 +4,7 @@
   "description": "Hello world",
   "devDependencies": {
     "gulp": "^3.8.11",
+    "phantomjs": "^1.9.18",
     "gulp-jasmine-phantom": "^1.1.2",
     "gulp-concat": "^2.5.2"
   }
