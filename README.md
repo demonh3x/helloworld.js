@@ -11,4 +11,4 @@ The folder `src` will contain the production code. `spec` will contain the tests
 `npm install`
 
 ## Run tests
-`gulp`
+`./node_modules/.bin/gulp`
